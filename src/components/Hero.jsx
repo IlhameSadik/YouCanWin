@@ -105,7 +105,7 @@ export default function Hero() {
           <div className="w-[300px] sm:w-[400px] md:w-[448px] h-[540px] sm:h-[700px] md:h-[796px] bg-white rounded-[30px] sm:rounded-[35px] md:rounded-[40px] border-[8px] sm:border-[10px] border-[#0f172a] overflow-hidden shadow-2xl">
 
             {/* HEADER */}
-            <div className="bg-green-700 text-white px-4 sm:px-6 py-4 sm:py-6">
+            <div className="bg-gradient-to-b from-[#16A34A] to-[#0B6B3A] text-white px-6 py-3 rounded-lg px-4 sm:px-6 py-4 sm:py-6">
               <p className="text-xs opacity-80">ALBUM DIGITAL 2025</p>
               <h2 className="text-xl sm:text-2xl font-semibold mt-1">Ma Collection</h2>
 

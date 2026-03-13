@@ -20,7 +20,7 @@ export default function FeaturesSection() {
   ];
 
   return (
-    <section className="bg-gradient-to-r from-green-600 to-green-800 text-white py-20 px-6 text-center">
+    <section className="bg-gradient-to-r from-green-600 pt-20 to-green-800 text-white py-20 px-6 text-center">
       <div className="max-w-6xl mx-auto">
         
         {/* Title */}

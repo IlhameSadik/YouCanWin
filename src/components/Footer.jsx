@@ -25,8 +25,8 @@ export default function Footer() {
                         </div>
 
                         <span className="text-lg font-semibold">
-                            <span className="text-red-500">You</span>
-                            <span className="text-blue-600">can</span>
+                            <span className="text-red-600">You</span>
+                            <span className="text-black-600">can</span>
                             <span className="text-green-600">win</span>
                         </span>
 

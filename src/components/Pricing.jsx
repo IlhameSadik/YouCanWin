@@ -74,7 +74,7 @@ export default function Pricing() {
   ];
 
   return (
-    <section className=" py-16 px-6">
+    <section className=" pt-20 py-16 px-6">
       <div className="max-w-6xl mx-auto text-center mb-12">
         <h2 className="text-3xl font-bold">
           Des formules adaptées à votre échelle

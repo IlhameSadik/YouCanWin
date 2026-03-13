@@ -5,7 +5,7 @@ import img from "../assets/football.jpg";
 
 export default function SolutionSection() {
   return (
-    <section className="bg-gray-50">
+    <section className="bg-gray-50 pt-20">
       <div className="max-w-8xl mx-auto px-6 py-12 grid md:grid-cols-2 gap-12 items-center">
 
         {/* Image */}

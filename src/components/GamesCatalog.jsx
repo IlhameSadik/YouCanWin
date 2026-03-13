@@ -30,7 +30,7 @@ export default function GamesCatalog() {
     ];
 
     return (
-        <section className="bg-gray-100 py-16 px-6">
+        <section className="bg-gray-100 pt-20 py-16 px-6">
             {/* Titre */}
             <div className="max-w-6xl mx-auto text-center mb-12">
                 <h2 className="text-3xl font-bold text-gray-900">Catalogue de jeux</h2>
@@ -54,7 +54,7 @@ export default function GamesCatalog() {
                                     className="w-full h-44 object-cover transition-transform duration-500 group-hover:scale-110"/> {
                                     game.badge && (
                                         <span
-                                            className={`absolute top-3 right-3 text-xs text-white px-2 py-1 rounded ${game.badgeColor}`}>
+                                            className={`absolute top-0 right-0 text-xs text-white px-2 py-1 rounded ${game.badgeColor}`}>
                                             {game.badge}
                                         </span>
                                     )
